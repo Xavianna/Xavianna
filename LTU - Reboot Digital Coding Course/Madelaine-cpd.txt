@@ -20,7 +20,7 @@ After the lesson we watched a video about the internet and its terminologies.
 
 Today I had a refresher about the WWW, internet, client, server, DNS.
 
-We created a github account. 
+We created a github account and also learnt about cloud computing.
 
 After the lesson, I installed visual studio code and Github desktop.
 
@@ -43,3 +43,7 @@ Today I learnt how to add a file in visual studio code and committing changes to
 I learnt more about freecodecamp and a mobile code learning app called https://getmimo.com/.
 
 We were introduced to a few websites including Youtubers who will teach us more about HTML, CSS, Javascript including understanding of the industry.
+
+The part I enjoyed most was knowing that there are so many free resources available to help me learn about coding.
+
+The part that I found hard was to find the resource that would suit my learning experience best.
