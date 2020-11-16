@@ -47,3 +47,12 @@ We were introduced to a few websites including Youtubers who will teach us more 
 The part I enjoyed most was knowing that there are so many free resources available to help me learn about coding.
 
 The part that I found hard was to find the resource that would suit my learning experience best.
+
+
+1.5 - 16/11/2020
+
+Today we learnt about HTML (Hyper Text Markup Language). We were shown how to view source code of a webpage - https://getbootstrap.com/. Then I created 3 tasks and explored the different html tags and added the HTML5 doctype so the website qualifies and is recognised as a HTML5 website. I also added a Live Server onto VSC as I missed the lesson on Thursday. This allowed me to "Go Live" and view the website I was working on a browser. 
+
+The part I enjoyed most was learning a few shortcuts that can be used during coding and that the html tags opens and closes automatically. This is very handy. We also learnt to add different heading sizes from h1 to h6 and variations to text to make it bold using <strong> </strong> and italic <em> </em>. We also learnt to add break spaces using <br> or <br />.
+
+I didn't particularly find anything hard in this lesson and I enjoyed it immensely. Still trying to access Thursday's lesson video.
